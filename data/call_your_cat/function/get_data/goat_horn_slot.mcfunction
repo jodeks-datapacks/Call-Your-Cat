@@ -1,0 +1,1 @@
+data modify storage call_your_cat:root data.goat_horn_slot set from entity @s SelectedItemSlot

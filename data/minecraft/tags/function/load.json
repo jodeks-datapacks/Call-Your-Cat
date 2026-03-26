@@ -1,0 +1,6 @@
+{
+  "values": [
+    "call_your_cat:setup",
+    "call_your_cat:load_message"
+  ]
+}
