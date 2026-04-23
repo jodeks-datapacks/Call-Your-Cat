@@ -1,6 +1,3 @@
 {
-  "values": [
-    "call_your_horse:app/setup",
-    "call_your_horse:app/load_message"
-  ]
+  "values": ["call_your_cat:app/setup", "call_your_cat:app/load_message"]
 }

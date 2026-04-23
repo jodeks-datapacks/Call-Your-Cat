@@ -2,11 +2,9 @@
   "modrinth_id": "QuDyXDNw",
   "curseforge_id": "1426187",
   "curseforge_mod_id": "1426188",
-  "curseforge_slug": "call-your-horse",
+  "curseforge_slug": "call-your-cat",
   "loaders": ["datapack"],
-  "game_versions": [
-    ">=1.21.6"
-  ],
+  "game_versions": [">=1.21.6"],
   "version_type": "release",
   "dependencies": {
     "datapack": ["5555ff-lib(required){modrinth:Lr1LVAwO}{curseforge:1495266}"],
